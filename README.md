@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul Carini</h1>
-- 🔭 I’m currently working on [Siffredi Bot](https://github.com/R4ULtv/siffredi-bot/projects/1)
+- 🔭 I’m currently working on <a href="https://github.com/R4ULtv/siffredi-bot/projects/1">Siffredi Bot</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
